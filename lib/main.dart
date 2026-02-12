@@ -4,7 +4,7 @@ import "package:app_ingc1/pages/page_profil.dart";
 import "package:flutter/material.dart";
 
 void main() {
-  runApp(const MonApplication);
+  runApp(const MonApplication());
 }
 
 class MonApplication extends StatelessWidget {
